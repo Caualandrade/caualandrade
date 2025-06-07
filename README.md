@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou Cauã Andrade 👋</h1>
+<h1 align="left">Olá, eu sou Cauã Andrade 👋</h1>
 
-<p align="center">
+<p align="left">
   🚀 Trainee de Inovação e Tecnologia na Fundação José Silveira<br>
   💻 Engenheiro de Software em formação na UCSAL<br>
   🔬 Entusiasta por automação, IA aplicada e soluções inovadoras para empresas<br>
